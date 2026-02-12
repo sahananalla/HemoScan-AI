@@ -141,7 +141,7 @@ It does not replace professional medical diagnosis or treatment.
 ---
 
 ## 👩‍💻 Team Iron Guard
-- Nalla Sahana - TL
+- Nalla Sahana
 - R. Sai Srilekha
 - S. Sahithi
 - P. Shahsumna Nivas
