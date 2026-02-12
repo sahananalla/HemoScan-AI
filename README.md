@@ -140,7 +140,4 @@ It does not replace professional medical diagnosis or treatment.
 
 ---
 
-## 👩‍💻 Author
-
-**Sahana Nalla**  
-AI & Healthcare Enthusiast
+## 👩‍💻 Team Iron Guard
